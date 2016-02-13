@@ -1,3 +1,5 @@
+# Please don't take this seriously.
+
 <p align="center">
   <a href="https://hydrabolt.github.io/discord.js">
     <img alt="discord.js" src="http://hydrabolt.github.io/discord.js/res/logo.png" width="546">
@@ -9,7 +11,7 @@
 [![NPM](https://nodei.co/npm/discord.js.png?downloads=true&stars=true)](https://nodei.co/npm/discord.js/)
     
 
-discord.js is a node module used as a way of interfacing with [Discord](https://discordapp.com/). It is a very useful module for creating bots.
+node-javajgojdadiscordiegoapiphpsharprb4j.io.js.py.net-hypertext is a node module used as a way of interfacing with [Discord](https://discordapp.com/). It is a very useful module for creating bots.
 
 ### Installation
 
